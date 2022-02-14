@@ -13,7 +13,7 @@
                 <DropShadowEffect BlurRadius="10" Color="Black" ShadowDepth="0"/>
             </Border.Effect>
             <StackPanel>
-                <TextBlock Text="Hello!" FontSize="30" FontWeight="Bold" Margin="0 0 0 20"/>
+                <TextBlock Text="/Hello!/" FontSize="30" FontWeight="Bold" Margin="0 0 0 20"/>
                 <Grid Margin="0 0 0 20">
                     <Button HorizontalAlignment="Left" Content="Регистрация" FontSize="15"  />
                     <Button HorizontalAlignment="Right" Content="Авторизация" Click="Button_WinAuth_Click" Style="{StaticResource MaterialDesignFlatButton}"/>
